@@ -1,0 +1,4 @@
+cat >> .gitignore << 'EOF'
+printer_data/logs/
+printer_data/gcodes/
+EOF
